@@ -99,3 +99,7 @@ packages/coding-agent/bench/boot-baseline.json
 /.bazelrc.user
 
 .parity/
+
+# retained binary release set (see releases/README.md) — binaries ignored, the README tracked
+releases/*
+!releases/README.md
