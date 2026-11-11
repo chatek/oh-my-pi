@@ -26,7 +26,7 @@ gh release download v18.16.0 -R can1357/oh-my-pi \
 Re-fetch from this Forgejo instance (tailnet, seconds instead of ~30 min):
 
 ```bash
-curl -O https://forgejo.ruffe-court.ts.net/forgejo/chatek/oh-my-pi/releases/download/v18.16.0/omp-darwin-arm64
+curl -O https://forgejo.ruffe-court.ts.net/chatek/oh-my-pi/releases/download/v18.16.0/omp-darwin-arm64
 ```
 
 ## Consumers
